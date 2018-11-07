@@ -2,6 +2,6 @@
 
 Tradingview Watchlists for Crypto Exchanges.  
 
-Automatically updated daily.
+Updated daily with all upto date markets.
 
 DM me if you would like other exchanges added https://twitter.com/CryptoPeterD
