@@ -1,0 +1,1 @@
+BITFINEX:ltcbtcBITFINEX:ethbtcBITFINEX:etcbtcBITFINEX:zecbtcBITFINEX:xmrbtcBITFINEX:dshbtcBITFINEX:xrpbtcBITFINEX:iotbtcBITFINEX:eosbtcBITFINEX:sanbtcBITFINEX:omgbtcBITFINEX:neobtcBITFINEX:etpbtcBITFINEX:edobtcBITFINEX:btgbtcBITFINEX:bsvbtcBITFINEX:babbtc
